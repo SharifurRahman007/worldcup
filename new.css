@@ -64,17 +64,17 @@
 }
 
 .details {
-    background-color: rgb(246, 241, 241);
-    background-image: url(assets/Blog\ Image.png);
+    background-color: white;
+    background-image: url(assets/sedule.png);
     background-repeat: no-repeat;
     color: black;
     width: 10%;
     height: 3%;
     padding: 4%;
     border-radius: 5px;
-    margin: 5px;
-    background-size: 100%;
+    margin: 10px;
     text-align: left;
+    background-size: 100%;
     border: 1px solid;
 
 
@@ -102,17 +102,6 @@ footer {
     margin-right: 50px;
 
 
-}
-
-#smalltext {
-    font-size: 8px;
-}
-
-.detailsbutton button {
-    align-items: baseline;
-    border-radius: 5px;
-    background-color: white;
-    border: 0ch;
 
 }
 
@@ -126,18 +115,4 @@ footer {
 
 .footerbutton button :hover {
     background-color: aquamarine;
-}
-
-#link {
-    background-color: white;
-    color: black;
-    padding: 1px;
-    align-items: center;
-    text-align: center;
-    display: flex;
-    height: 90%;
-    width: 90%;
-    border-radius: 5px;
-    margin: 6px;
-    border: 0ch;
 }
